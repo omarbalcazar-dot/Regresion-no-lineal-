@@ -54,3 +54,5 @@ Intrucciones:
 7. Visualización comparativa
     
   • Se genera una grafica mostrando las calificaciones reales junto con las predichas por los tres modelos en un mismo plot.
+
+  La actividad va de 3 documentos:
