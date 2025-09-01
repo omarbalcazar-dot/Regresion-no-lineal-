@@ -57,8 +57,8 @@ Intrucciones:
 
   La actividad va de 3 documentos:
 
-[reporte html]()
+[reporte html](A1.6_652911.html)
 
-[reporte ipynb]()
+[reporte ipynb](A1.6_652911.ipynb)
 
-[reporte TiempoDeEntrada.cvs]()
+[reporte TiempoDeEntrega.cvs](TiempoDeEntrega.cvs)
