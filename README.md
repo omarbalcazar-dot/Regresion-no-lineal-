@@ -1,7 +1,6 @@
 # Regresion-no-lineal-
 
 El proposito de este trabajo es comprobar la hipótesis de "Entre más cerca de la hora de cierre de la bandeja se entrega la tarea, peor es la calificación obtenida."
-
 Para esto, trabajamos con el archivo TiempoDeEntrega.csv, el cual contiene:
 
 Tiempo: horas restantes antes del cierre de la bandeja
